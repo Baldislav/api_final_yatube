@@ -152,7 +152,3 @@ Response:
     "following": "string"
 }
 ```
-
-## Автор
-
- Андрей Плотников (Andy.Plo@yandex.ru)
